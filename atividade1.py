@@ -1,5 +1,5 @@
-peso = 63
-altura = 1.57
+peso = float (input("informe seu peso atual: "))
+altura = float (input("informe seu altura atual: "))
 
 massa_corporal = (peso / (altura ** 2))
 
